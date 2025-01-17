@@ -5,7 +5,7 @@ En el se pueden registrar, listar, actualizar y eliminar topicos.
 
 Permite tambien realizar estas funciones con los usuarios del foro.
 
-Permite a los usuarios registrarse e ingresar al foro, postear topicos, y mas.
+Estas funciones permite la interaccion a los usuarios para registrarse e ingresar al foro, postear topicos, y mas.
 
 Para el desarrollo se uso registro y autenticacion con JWT tokens, documentacion con Swagger, 
 

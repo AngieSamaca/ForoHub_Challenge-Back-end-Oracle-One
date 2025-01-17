@@ -7,8 +7,7 @@ Permite tambien realizar estas funciones con los usuarios del foro.
 
 Estas funciones permite la interaccion a los usuarios para registrarse e ingresar al foro, postear topicos, y mas.
 
-Para el desarrollo se uso registro y autenticacion con JWT tokens, documentacion con Swagger, 
-
+Para el desarrollo se uso registro y autenticacion con JWT tokens, asi como tambien documentacion con Swagger, 
 persistencia de datos y manejo de base de datos con PostgresSQL.
 
 Requerimientos:
